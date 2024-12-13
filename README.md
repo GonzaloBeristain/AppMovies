@@ -1,6 +1,4 @@
-Claro, aquí tienes el código completo para el archivo `README.md` en un solo bloque:
 
-```markdown
 # 🎬 **AppMovies** 🎥
 
 ¡Bienvenido a **AppMovies**! Esta es una aplicación moderna y fácil de usar que te permite ver información detallada sobre tus películas favoritas. Con una interfaz interactiva y fluida, podrás explorar los detalles de las películas más populares, incluyendo sinopsis, actores, directores y mucho más.
@@ -105,6 +103,3 @@ Claro, aquí tienes el código completo para el archivo `README.md` en un solo b
 ## 🏁 **¡Listo para explorar las películas!** 🎬
 
 ¡Ahora puedes explorar películas y sus detalles de manera fácil y rápida con esta aplicación! Si tienes alguna pregunta, no dudes en abrir un *issue* en GitHub.
-```
-
-Este es el código completo para tu archivo `README.md` con todos los cambios que solicitaste. ¡Espero que te sea útil!
